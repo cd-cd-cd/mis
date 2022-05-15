@@ -1,0 +1,108 @@
+.student{
+  font-size: 12px;
+  font-family: 'Microsoft Yahei', 微软雅黑, Tahoma, Aria;
+  color: dimgrey;
+}
+#top {
+  color: #fff;
+  height:190px;
+  width:100%;
+  background-color:#135E7F;
+}
+#topInfo {
+  width:100%;
+  height:40px;
+  text-align:right;
+
+}
+#topInfo p{
+  margin-right: 5px;
+  line-height: 40px;
+}
+#topLogo {
+  width:100%;
+  height:90px;
+  background-color: white;
+}
+.stu_container{
+  width: 80%;
+  margin: 0 auto;
+}
+.el-link.el-link--default:hover{
+  color: white;
+}
+.attention{
+  color: red;
+  text-align: right;
+}
+
+.el-col {
+  border-radius: 4px;
+}
+.title {
+  background-color: rgb(178, 178, 178,.2);
+  color: dimgrey;
+  font-size: 13px;
+  padding-left: 15px;
+  line-height: 36px;
+  border: 1px solid lightgrey;
+}
+.content{
+  background: white;
+  font-size: 14px;
+}
+.grid-content {
+  min-height: 36px;
+  line-height: 36px;
+}
+.grid-content2 {
+  min-height: 18px;
+  line-height: 18px;
+}
+.change_password{
+  margin-top: 20px;
+}
+.major_choice{
+  width: 100%;
+  background-color: white;
+  border: 1px solid lightgrey;
+}
+.major_1{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: rgb(178, 178, 178,.1);
+}
+.major{
+  margin-top: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: rgb(178, 178, 178,.1);
+}
+.bottom_button{
+  margin-top: 5px;
+  padding-top: 5px;
+  padding-bottom: 0px;
+  text-align: center;
+}
+.stu{
+  height: 26px;
+  line-height: 26px;
+  float: right;
+  margin-right: 3px;
+}
+.info_attention{
+  background: white;
+  color: red;
+  font-size: 12px;
+  text-align: center;
+}
+.top_logo_left{
+  width: 90px;
+  height: 90px;
+  margin-left: 15px;
+}
+.top_log_text{
+  height: 75px;
+  display: inline-block;
+  margin-left: 12px;
+}

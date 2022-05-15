@@ -1,0 +1,64 @@
+.head{
+  height:100px;
+  background-image:url("../../assets/img/log_top.jpg");
+}
+.middle{
+  height:auto;
+  min-height:500px;
+  background-image:url("../../assets/img/loginBgm.jpg");
+  background-attachment:fixed;
+  background-size:cover;
+  -moz-background-size:cover;
+  -webkit-background-size:cover;
+  display: flex;
+}
+.foot{
+  height:100px;
+  background-image:url("../../assets/img/login_foot.jpg");
+  background-repeat:repeat-x;
+}
+.title_login{
+  display:inline-block;
+  margin-top:130px;
+  margin-left:80px;
+}
+.form_login{
+  display:inline-block;
+  width:450px;
+  margin-top:110px;
+  margin-left: 100px;
+}
+.name{
+  margin-top:70px;
+  margin-left:20px;
+  font-size:25pt;
+  font-family:黑体;
+  font-weight:bold;
+  color:black;
+}
+.name2{
+  margin-top:20px;
+  font-size:20pt;
+  font-family:黑体;
+  font-weight:bold;
+  text-align: center;
+  color:black;
+}
+.login-container{
+  border-radius: 5px;
+  background-clip: padding-box;
+  background-color: white;
+  border: 1px solid #D3D3D3;
+  box-shadow: 0 0 25px #cac6c6;
+  padding-top: 20px;
+}
+
+.identify{
+  width: 120px;
+  height: 40px;
+  background-color: #cac6c6;
+  display: inline-block;
+}
+.el-form-item__error{
+  margin-top: -5px;
+}
